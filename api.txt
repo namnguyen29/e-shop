@@ -1,0 +1,1 @@
+link api: http://localhost/laravel/public/api
